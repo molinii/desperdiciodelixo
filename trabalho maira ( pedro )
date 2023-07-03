@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Como Evitar o Desperdício de Lixo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header>
+    <h1>Como Evitar o Desperdício de Lixo</h1>
+  </header>
+
+  <section>
+    <h2>Por que é importante evitar o desperdício de lixo?</h2>
+    <p>O desperdício de lixo é um problema global que afeta negativamente o meio ambiente, a saúde humana e os recursos naturais. O acúmulo de lixo causa poluição do solo, da água e do ar, contribuindo para problemas como a degradação do ecossistema, a contaminação de rios e a emissão de gases de efeito estufa.</p>
+    <p>Além disso, a extração de recursos naturais para produzir itens descartáveis consome energia e contribui para o esgotamento desses recursos finitos. Ao evitar o desperdício de lixo, podemos reduzir a poluição, preservar os recursos naturais e contribuir para um futuro mais sustentável.</p>
+  </section>
+
+  <section>
+    <h2>Dicas para evitar o desperdício de lixo</h2>
+    <ul>
+      <li>Reduza o uso de itens descartáveis, como sacolas plásticas, copos e talheres descartáveis.</li>
+      <li>Opte por produtos duráveis em vez de produtos de uso único.</li>
+      <li>Recicle corretamente, separando os materiais recicláveis dos resíduos não recicláveis.</li>
+      <li>Compre produtos com menos embalagens ou embalagens recicláveis.</li>
+      <li>Utilize sacolas reutilizáveis ao fazer compras.</li>
+      <li>Compre a granel para reduzir embalagens desnecessárias.</li>
+      <li>Repense seus hábitos de consumo e evite comprar itens desnecessários.</li>
+      <li>Reutilize itens sempre que possível, dando uma segunda vida a eles.</li>
+      <li>Composte restos de alimentos para evitar o desperdício e criar adubo natural.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Como você pode fazer a diferença</h2>
+    <p>Cada ação individual conta quando se trata de evitar o desperdício de lixo. Compartilhe suas dicas com outras pessoas e incentive-os a adotar hábitos mais sustentáveis. Participe de iniciativas de limpeza da comunidade ou de grupos de conscientização sobre o desperdício de lixo. Juntos, podemos criar um impacto positivo no mundo e preservar o planeta para as gerações futuras.</p>
+  </section>
+
+  <footer>
+    <p>&copy;  Exemplo de Site</p>
+  </footer>
+</body>
+
+</html>
